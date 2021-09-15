@@ -86,3 +86,11 @@ nav{
     font-size: 2rem;
     font-weight: bolder;
 }
+.label-all{
+    text-align: center;
+    color: whitesmoke;
+    display: block;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-size: 1.5rem;
+}
