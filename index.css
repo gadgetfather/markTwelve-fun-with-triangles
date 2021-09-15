@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital@1&display=swap');
+
+body{
+    font-family: 'Urbanist', sans-serif;
+    background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    font-size: 400%;
+    margin-top: 10%;
+    font-weight: bold;
+}
+nav{
+    text-align: center;
+    margin-top: 5% ;
+}
+a{
+    padding: 1rem;
+    margin-left: 5px;
+    text-decoration: none;
+    color: bisque;
+    font-size: 150%;
+    border:1px solid bisque;
+    background-color: black;
+}
+
+
