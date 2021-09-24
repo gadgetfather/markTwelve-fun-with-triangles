@@ -4,6 +4,8 @@ const outputEl = document.querySelector("#output")
 
 isTriangleBtn.addEventListener('click',isTriangle)
 
+
+
 function sumOfAngle(angle1,angle2,angle3){
     const sum = angle1 + angle2 + angle3;
    return sum;
